@@ -178,7 +178,7 @@ hr{
 }
 .title{
     display: grid;
-    grid-template-columns: 60% 40%;
+    grid-template-columns: 60% 15%;
 }
 
 
